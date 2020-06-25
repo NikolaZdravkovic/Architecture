@@ -1,0 +1,18 @@
+body {
+  background-color: #6a6ce0;
+}
+
+header {
+  background: rosybrown;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+a {
+  color: #56bdc7;
+}
+/*# sourceMappingURL=main.css.map */

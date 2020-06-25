@@ -1,0 +1,33 @@
+// Ovde se nalazi svi importi koji se nalaze u projektu
+
+
+
+// - 1 HELPERS -  fajl sluzi za cuvanje svih funkcija,mixina i varijabla koje bih pisao i kasnije koristio kroz projekat
+
+
+@import '1-helpers/_functions.scss';
+@import'1-helpers/_mixins.scss';
+@import '1-helpers/_variables.scss';
+
+// - 2 BASICS - fajl u kome bi se nalazile sve bazicne stvari vezano za projekat od buttons,typography, core(base) css-a i slicno
+
+@import '2-basics/_base.scss';
+@import '2-basics/_buttons.scss';
+@import '2-basics/_typography.scss';
+@import '2-basics/_links.scss';
+
+// -3 LAYOUTS - fajl u kome se nalaze sve velike stvari na projektu footer, contact, veliki headersi ,mainContent itd
+
+@import '3-layouts/_navigation.scss';
+@import '3-layouts/_mainContent.scss';
+@import '3-layouts/_footer.scss';
+
+// -4 COMPONENTS - fajl u kome se nalaze komponente koje ce se iznova korisititi na vise mesta - 
+//  uglavnom su to kartice(Cards) koje se nalaze na vecini sajtova ali moze se stavljati i sve ostalo
+
+@import '4-components/_Card.scss';
+@import '4-components/_CardMobile.scss';
+
+// -5 MODULES - fajl u kome se nalaze sve sitne stvari koje bi se pojavljivale pojedicnano na sajtu ( logo,search bar, video snimci itd)
+
+@import '5-modules/_logo.scss';

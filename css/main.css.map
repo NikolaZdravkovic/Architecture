@@ -1,0 +1,22 @@
+{
+    "version": 3,
+    "mappings": "AIIA,AAAA,IAAI,CAAA;EACF,gBAAgB,EAHZ,OAAkB;CAIvB;;AAED,AAAA,MAAM,CAAA;EACJ,UAAU,EAAE,SAAS;EACrB,eAAe,EAAE,MAAM;EACzB,OAAO,EAAE,IAAI;CAAE;;AGTf,AAAA,CAAC,CAAC;EACE,KAAK,EJDE,OAAiB;CIE3B",
+    "sources": [
+        "main.scss",
+        "1-helpers/_functions.scss",
+        "1-helpers/_mixins.scss",
+        "1-helpers/_variables.scss",
+        "2-basics/_base.scss",
+        "2-basics/_buttons.scss",
+        "2-basics/_typography.scss",
+        "2-basics/_links.scss",
+        "3-layouts/_navigation.scss",
+        "3-layouts/_mainContent.scss",
+        "3-layouts/_footer.scss",
+        "4-components/_Card.scss",
+        "4-components/_CardMobile.scss",
+        "5-modules/_logo.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}

@@ -1,0 +1,12 @@
+// Fajl koji se koristi za najbazicnije stvari vezano za html/css -header, divovi, containers,wrappers etc
+
+$red :rgb(106, 108, 224);
+
+body{
+  background-color: $red;
+}
+
+header{
+  background: rosybrown;
+  justify-content: center;
+display: flex;}
